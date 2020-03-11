@@ -1,0 +1,27 @@
+.list{
+    
+    text-align: center;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background: url("/Images/Wood.jpg");
+    padding: 1%;
+    color: white;
+    
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    font-family: Impact, fantasy;
+}
+/*a:hover {
+    background-color: teal;
+}
+
+a:active {
+    color: blue;
+}*/

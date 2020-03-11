@@ -1,0 +1,178 @@
+.exterior {
+    background-color: white;
+    text-align: center;
+    margin: 0%;
+}
+
+.single {
+    background: grey;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+img {
+    width: 16vw;
+    height: 35vh;
+    padding: 1%;
+    
+    flex-wrap: wrap;
+}
+.interior {
+    background-color: white;
+    text-align: center;
+    margin: 0%;
+}
+
+.doors {
+    background: grey;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.Trim {
+    text-align: center;
+    margin: 0%;
+}
+
+.decor {
+    background: grey;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.base {
+    text-align: center;
+    margin: 0%;
+}
+.baseboards {
+    background: grey;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+.crown {
+    text-align: center;
+    margin: 0%;
+}
+.molding{
+    background: grey;
+    display: flex;
+    flex-flow: row wrap;
+}
+.floor {
+    text-align: center;
+    margin: 0%;
+}
+.tile {
+    background: grey;
+    display: flex;
+    flex-flow: row wrap;
+}
+
+/*
+.glass {
+    width: 16%;
+    padding: 1%; 
+    padding-left: 3%;
+}
+
+.door {
+    width: 15%;
+    padding: 1%;
+}
+
+.Brown {
+    width: 15%;
+    padding: 1%;
+}
+
+.twelve {
+    width: 15%;
+    padding: 1%;
+    padding-right: 0%;
+}
+
+.atlantic {
+    width: 15%;
+    padding: 1%;
+    padding-left: 3%;
+}
+.interior {
+    background-color: white;
+    text-align: center;
+    margin: 0%;
+}
+
+.doors {
+    background-color: grey;
+}
+
+.trim {
+    width: 15%;
+    padding: 1%;
+    padding-left: 3%;
+}
+
+.open {
+    width: 15%;
+    padding: 1%;
+}
+.double {
+    width: 25%;
+    padding: 1%;
+}
+
+.pantry {
+    width: 15%;
+    padding: 1%;
+}
+
+.laundry {
+    width: 13%;
+    padding: 1%;
+}
+
+.bath {
+    width: 20%;
+    padding: 1%;
+    padding-left: 3%;
+}
+
+.Trim {
+    text-align: center;
+}
+
+.decor {
+    background-color: grey;
+}
+.Ceilingtrim {
+    width: 20%;
+    padding: 1%;
+    padding-left: 3%;
+}
+
+.Cornertrim {
+    width: 13%;
+    padding: 1%;
+}
+
+.Windowtrim {
+    width: 20%;
+    padding: 1%;
+}
+
+.Archtrim {
+    width: 10%;
+    padding: 1%;
+}
+
+.Basetrim {
+    width: 18%;
+    padding: 1%;
+}
+
+.Doortrim {
+    width: 10%;
+    padding: 1%;
+}
+*/

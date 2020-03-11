@@ -1,0 +1,13 @@
+.foot {
+    background: url("/Images/Wood.jpg");
+    margin: 0%;
+    position: fixed;
+    color: white;
+    padding-top: 0%;
+    margin-top: 15px;
+    height: 50;
+    width: 100%;
+    text-align: center;
+    font-size: 0.8em;
+    bottom: 0;
+} 

@@ -1,0 +1,14 @@
+.work {
+    background: white;
+    text-align: center;
+}
+textarea {
+    width:400px;
+    height:100px;
+    border:2px solid #000000;
+    background-color:#CCCCCC;
+    
+    overflow: hidden;
+    }
+
+    

@@ -1,0 +1,117 @@
+/*.Carousel {
+  background-size: cover;
+  width: 100%;
+  flex: auto;
+}
+.Bathroom {
+  width: 100%;
+  height: 587px;
+  object-fit: contain;
+}
+
+
+
+.Ceiling {
+  width: 100%;
+  height: 587px;
+  object-fit: contain;
+  
+}
+
+.Dining {
+  width: 100%;
+  height: 587px;
+  object-fit: contain;
+}
+.Kitchen {
+  width: 100%;
+  height: 587px;
+  object-fit: contain;
+}
+.Living {
+  width: 100%;
+  height: 587px;
+  object-fit: contain;
+}
+ body {
+     background: url("/Images/Grey.jpeg") no-repeat;
+     background-size: cover;
+     width: 100%;
+     
+ }
+ */
+      
+    
+    
+    
+    .carouselContainer {
+    border: 1px solid #000;
+    display: block;
+    overflow: hidden;
+    white-space: nowrap;
+    position: relative;
+}
+.carouselContainer>.slide {
+    display: inline-block;
+    vertical-align: top;
+    min-height: 20px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center center;
+}
+.carouselContainer>.moveLeft {
+    left: 0;
+}
+.carouselContainer>.moveRight {
+    right: 0;
+}
+.carouselControl {
+    display: block;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    width: 60px;
+    opacity: 0.5;
+}
+i {
+    border: solid black;
+    border-width: 0 5px 5px 0;
+    display: inline-block;
+    padding: 10px;
+}
+i:hover {
+    border-color: #009;
+}
+.carouselControl>i {
+    position: absolute;
+    top: calc(50% - (35px / 2));
+    left: calc(50% - (35px / 2));
+}
+.right {
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+}
+.left {
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+}
+.up {
+    transform: rotate(-135deg);
+    -webkit-transform: rotate(-135deg);
+}
+.down {
+    transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+}
+
+.slide {
+    background: grey
+}
+    
+    
+  
+  
+
+
+
+ 
