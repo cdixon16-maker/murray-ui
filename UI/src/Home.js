@@ -119,9 +119,9 @@ class Slide extends React.Component {
 }
 */
 
-import React from 'react';
+import React, { Component } from 'react';
 import "./Home.css";
-export default class Carousel extends React.Component {
+export default class Carousel extends Component {
     constructor(props) {
         super(props);
         this.state = {

@@ -41,7 +41,7 @@ function App() {
                         <Services />
                     </Route>
                     <Route path="/">
-                    <Home height='74.5vh' images={['Bathroom.jpg', 'Kitchen.jpg', 'Livingroom.jpg', 'Dining.jpg', 'Ceiling.jpg']} />
+                    <Home height='74.5vh' images={['Kitchen.jpg', 'Livingroom.jpg', 'Dining.jpg', 'Ceiling.jpg', `Bathroom.jpg`]} />
                     </Route>
                 </Switch>
             </div>
